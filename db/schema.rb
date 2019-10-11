@@ -36,4 +36,4 @@ ActiveRecord::Schema.define(version: 20160113163910) do
     t.integer  "category_id"
   end
 
-end
+end 
